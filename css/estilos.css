@@ -49,10 +49,18 @@ h2, p {
 }
 
 
+.banner {
+    
+    margin-top: 60px;
+    margin-bottom: 20px;
+    
+}
+
+
 
 .seccion {
     
-    margin-top: 100px;
+    margin-top: 80px;
     margin-bottom: 20px;
     
 }
@@ -106,10 +114,11 @@ h2, p {
 
 .jumbotron {
     margin-bottom: 0px;
-    background-image: url(../images/banner/bebedoctor.jpg);
+    background-image: url(../images/banner/bebe-doctor-rojo3.jpg);
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
+    height: 400px;
 }
 
 
@@ -286,7 +295,7 @@ h2, p {
 
 .nav-item {
     
-    margin-right: 40px;
+    margin-right: 20px;
     
 }
 
@@ -296,14 +305,15 @@ h2, p {
 
 .tecnologia-item {
     
-    margin: 4px;
-    padding: 4px;
+    margin: 2px;
+    padding: 2px;
     background-color: #f4f4f4;
     border-style: solid;
     border-color: #d1d1d1;
     border-width: 1px;
     border-radius: 2px;
-    
+    width: 100px;
+    height: 100px;
     
 }
 
@@ -312,8 +322,8 @@ h2, p {
 
 div.tecnologia-item img {
     
-    padding: 10px;
-    margin-left: 12px;
+    padding: 5px;
+    margin-left: 6px;
     width: 40px;
     height: 40px;
 }
